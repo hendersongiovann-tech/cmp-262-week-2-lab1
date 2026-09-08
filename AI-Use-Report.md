@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Giovannie Henderson
+- Week: 2
+- Lab:1
+- Date:sept 8, 2026
 
 ## AI Use
 
