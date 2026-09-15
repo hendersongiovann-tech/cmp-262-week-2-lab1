@@ -11,7 +11,9 @@
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [x 
+
+] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
@@ -20,25 +22,38 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+
+
+Tool: github copilot 
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+
+
+Response:assistance with code 
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response:
+
+
+Response:wasnt sure of the placement of certain things 
 
 ## Testing and Verification
 
-Explain how you tested the code and confirmed that the AI assistance was accurate.
+Explain how you tested the code and confirmed that the AI assistance was 
 
-Response:
+
+
+
+accurate.
+
+
+
+Response:i made the changes it suggested tested the code and it was correct 
 
 ## What I Learned
 
@@ -50,4 +65,6 @@ Response:
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+
+
+Response:worked well for the questions and guidance i needed 
